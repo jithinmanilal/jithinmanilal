@@ -1,1 +1,1 @@
-(HOSTED HERE!!)[https://jithinmanilal.github.io/jithinmanilal/]
+[Hosted Here](https://jithinmanilal.github.io/jithinmanilal/) 
