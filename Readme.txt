@@ -20,6 +20,3 @@ I'm a backend developer specializing in Python, proficient in frameworks such as
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-[Hosted Here](https://jithinmanilal.github.io/jithinmanilal/) 
